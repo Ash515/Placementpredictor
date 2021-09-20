@@ -1,2 +1,5 @@
 # Placementpredictor
-Placement predictor is an open source applciation  designed for college students to get engaged in the placement programes , college events, resume development and other stuffs.
+Placement predictor is an open source applciation  designed for college students to get engaged in the placement programes , college events, resume development and other stuffs
+
+## Tech Stacks
+Python, Reactjs
